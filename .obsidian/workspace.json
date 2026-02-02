@@ -11,10 +11,14 @@
             "id": "fa5096fee678514c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Python基础语法.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Python基础语法"
             }
           }
         ]
@@ -181,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bba4978db0cdce63",
+  "active": "fa5096fee678514c",
   "lastOpenFiles": [
+    "Python基础语法.md",
     "Python.md",
     "新建 文本文档.txt"
   ]
