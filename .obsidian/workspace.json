@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#这是一个注释，代表我学到了注释",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa5096fee678514c",
+  "active": "bba4978db0cdce63",
   "lastOpenFiles": [
     "Python基础语法.md",
     "Python.md",
