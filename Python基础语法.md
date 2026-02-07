@@ -209,4 +209,4 @@ print(result_2)
 1. 字符串（str）
 * 用单引号或双引号包围：“hello”
 * len（“hello“）可以看长度
-* 
+* 索引：”hello“\[?],
