@@ -174,6 +174,21 @@ a: 2,b: 1
 * 根号：（1）可以用乘方思想，如2\*\*（1/2）就是√2；
         （2）引用函数math.sqrt(?)计算；
 # 示例(求根公式)
+输入
+```Python
+improt math
+
+a=1
+b=2
+c=3
+
+result_1=(-b+((b**2-4*a*c))**(1/2))/(2*a)
+result_2=(-b-((b**2-4*a*c))**(1/2))/(2*a)
+print(result_1)
+print(result_2)
+```
+
+输出
 ```Python
 
 ```
