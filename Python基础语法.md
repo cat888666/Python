@@ -213,9 +213,17 @@ print(result_2)
 * 索引：”hello“\[?],显示第？+1个位置的字符（代码从0开始数）
 
 2. 整型(int)和浮点型(float)
+
 * 整型：6
 * 浮点型：6.0
 
-1. 布尔型(bool)
+3. 布尔型(bool)
+
 * 真：True
 * 假：False
+
+4. 空值类型（NoneType）
+* None（空值）
+
+补：type：显示数据类型
+    eg：type(6)=
