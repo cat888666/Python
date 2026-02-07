@@ -226,4 +226,4 @@ print(result_2)
 * None（空值）
 
 补：type：显示数据类型
-    eg：type(6)=
+    eg：type(6)=<class'int'>
